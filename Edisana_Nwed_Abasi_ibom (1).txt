@@ -1,0 +1,7 @@
+@book{1952edisana,
+  title={Edisana Nwed Abasi ibom: Akani ye Obufa Testament},
+  lccn={79107679},
+  url={https://books.google.com.ng/books?id=IS93GQAACAAJ},
+  year={1952},
+  publisher={National Bible Society of Scotland}
+}
